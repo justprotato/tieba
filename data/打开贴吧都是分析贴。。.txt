@@ -1,0 +1,10 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">
+
+毕竟都是大手，各种干货，理论分析，实力爆料。
+
+毕竟国家兴亡，匹夫有责嘛
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">

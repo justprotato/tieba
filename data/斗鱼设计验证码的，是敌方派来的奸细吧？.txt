@@ -1,0 +1,4 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/piaoliuping_1.png);height:110px;">
+
+看到那个验证码就不想点了

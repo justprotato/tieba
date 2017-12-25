@@ -1,0 +1,11 @@
+
+RT,之前用的版本现在只有声音,画面是黑屏.
+
+     据说以前0.1.0的版本可以看,有人给个链接吗~
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">
+
+同求，现在HD版虽然能看，但是很多地方没焦点，全屏都不行
+战旗这种后来的都有Android TV版的App了
+
+发现一个解决办法了,把盒子电源拔掉重启可以看,不过有可能再次黑屏.

@@ -1,0 +1,31 @@
+
+主要直播LOL 或者直播综艺节目的 其他大型单机游戏不考虑 这个配置会卡吗？直播LOL能保持60FPS不？
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">4/span>&quot;
+  /span>
+
+来人给点意见啊
+
+可以了 这配置LOL绝对没问题的  播大型单机上GTX970
+
+整机烈士
+
+你直播什么呀?我也是新主播，不过上传速度问题好烦人 你的设置都能好了吗
+
+参考斗鱼官方配置
+你的cpu和显卡都不够
+看你的带宽不错
+cpu选择 e3v3
+显卡选择gtx960
+更适合
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">2/span>&quot;
+  /span>

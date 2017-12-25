@@ -1,0 +1,19 @@
+
+------鲁大师 Build V5.11.15.1108------
+
+电脑型号: 联想 Product 台式电脑
+操作系统: Windows 7 旗舰版 精简版 64位 SP1
+
+  处理器: AMD A10-6700 APU with Radeon HD Graphics 四核
+    主板: 联想 31900005 STD
+    内存: 8 GB ( 圣创雷克 DDR3 1600MHz )
+  主硬盘: 西数 WDC WD10EZEX-08RKKA0 ( 1 TB / 7200 转/分 )
+    显卡: ATI Radeon HD 8670D  ( 768 MB / 联想 / 三卡交火 )
+  显示器: 联想 LEN65A5 LEN LI2342wA ( 23.1 英寸 )
+    光驱: 飞利浦-建兴 DVD-RW DH16AESH DVD刻录机
+    声卡: 瑞昱 ALC892 @ AMD High Definition Audio Controller
+    网卡: 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想
+
+
+
+你的 处理器不行的。因为AMD的处理器性能本来就不行，斗鱼推荐处理器是E3系列往上的，4590也可以胜任，但是比较吃力。你如果要换处理器，主板也需要改掉。因为AMD的借口和INT的处理器借口是不同的。

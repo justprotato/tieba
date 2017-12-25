@@ -1,0 +1,77 @@
+
+电脑型号  兼容机
+操作系统  Microsoft Windows 7 旗舰版  (64位/Service Pack 1)
+CPU  (英特尔)Intel(R) Pentium(R) CPU G2020 @ 2.90GHz(2900 MHz)
+主板  华硕 H61-PLUS
+内存  4.00 GB (   1333 MHz)
+主硬盘  500 GB (西数 WDC WD5000AAKX-00ERMA0 ATA Device 已使用时间: 3972小时)
+显卡  NVIDIA GeForce GT 630 (2048MB)
+显示器  飞利浦 Philips 190VL 32位真彩色 60Hz
+声卡  Realtek High Definition Audio
+网卡  Realtek PCIe GBE Family Controller
+
+把显示器换成电视机就可以了
+
+有没有大神回复一下啊
+
+有没有人啊
+
+有没有人啊
+
+换个主机就阔以了
+
+有没有人啊
+
+有没有人帮我看下啊，谢谢啦
+
+全换掉！预算够的话上I7+970！具体配置你可以去电脑吧或者卡吧问！
+
+处理器 i5   显卡750就好   然后内存8g哦了
+
+直播吃CPU，而且你一定要弄好自己的上传，上传决定了你的码率
+
+这个配置显然不能直播的,另外你说的100m是下行,对直播毫无意义
+建议cpu e3 1230  显卡 gtx960  其它的随便配.
+
+
+span class="edit_font_normal">　　　　------斗鱼tv日剧直播间260322/span>
+
+发个显卡价格给你瞅瞅
+Titan 七彩虹GTX Titan-6GD5 CH 384BIT 7X00 
+GTX980 iGame 980 4G D5 256BIT 4300 
+GTX970 iGame970 烈焰战神U-4GD5    256BIT 2350 
+960 iGame960 烈焰战神X TOP-2GD5  128BIT 1690 
+iGame960 烈焰战神U-2GD5  128BIT 1450 
+网驰960  D5 2G 双风扇 128BIT 1380 
+750TI iGame750TI 烈焰战神U TWIN D5 2G（双风扇） 128BIT 930 
+战斧750TI  D5 2G  双风扇 128BIT 880 
+战斧750TI  D5 2G  单风扇 128BIT 860 
+750 iGame750 烈焰战神U TWIN D5 1G（双风扇） 128BIT 775 
+战斧750  D5 2G双风扇 128BIT 795 
+战斧750  D5 1G 128BIT 690 
+网驰750  D5 2G 128BIT 755 
+网驰750  D5 1G green 128BIT 665 
+740 七彩虹740  战斧  D5  1G 128BIT 电询 
+IGame 740 烈焰战神U D5 1G 128BIT 585 
+七彩虹740  灵动鲨  D5  2G 128BIT 570 
+七彩虹740  灵动鲨  D5  1G 128BIT 515 
+660 网驰 660  D5 3G 192BIT 1120 
+650 iGame 650 烈焰战神U-TWIN- D5 2G（双风扇） 128BIT 695 
+iGame 650 烈焰战神U  D5 1G 128BIT 635 
+战斧  650  D5 2G  128BIT 650 
+战斧  650  D5 1G  128BIT 535 
+730K超频版低位宽 高频率 七彩虹 730k 战斧 D5 2G 超大卡 64BIT 440 
+七彩虹 730k 黄金版 D5 2G 64BIT 420 
+七彩虹 730k 灵动鲨 D5 2G 最划算D5 2G 64BIT 429 
+七彩虹 730k 灵动鲨 D5 1G 64BIT 365 
+七彩虹 730k 黄金版 D5 1G 64BIT 345 
+七彩虹 730k 灵动鲨 D3 1G  卖相好 64BIT 335 
+七彩虹 730k 黄金版 D3 1G 64BIT 315
+
+你这配置233几年前的了
+
+玩游戏够呛  直播游戏更加不堪
+
+先加1根4G内存,显卡960或以上(不开高效60+FPS可以无视)
+CPU如果不够用可以换i3/i5 (1155针的)
+电源换大一点450W+(如果不换显卡可以无视)

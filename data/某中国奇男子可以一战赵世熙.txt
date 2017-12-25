@@ -1,0 +1,6 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/4-Ew-yviRs8/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/4-Ew-yviRs8/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=5872dec1b14543a9f51bfac42e178a7b/5882708f8c5494ee1b740f2c2bf5e0fe99257e0a.jpg" pkey="f0426a40313eeb3524f2857b52dfee1f">span class="apc_src_wrapper">视频来自：土豆/span>
+
+除了cosplay没啥亮点，也就能吸引一点点那种腐女了
+
+

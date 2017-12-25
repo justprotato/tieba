@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XOTE5MzkyOTEy/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XOTE5MzkyOTEy.html" vpic="http://g1.ykimg.com/0100641F46551207DB1C3001FC07CFF0B75DBA-2D3C-2B74-B5C3-478EC68C69FC" pkey="47db329ad18b18e824d5ea36b9aedb20">span class="apc_src_wrapper">视频来自：优酷/span>
+
+2楼(#酷)(#酷)

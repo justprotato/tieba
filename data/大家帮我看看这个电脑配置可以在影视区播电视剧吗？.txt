@@ -1,0 +1,10 @@
+
+处理器: AMD A8-6600K APU with Radeon HD Graphics 四核
+    主板: 七彩虹 C.A78M PRO
+    内存: 8 GB ( 金士顿 DDR3 1600MHz )
+  主硬盘: 金士顿 SV300S37A120G ( 120 GB / 固态硬盘 )
+    显卡: ATI Radeon HD 8570D ( 512 MB / ATI )
+
+还有问下，比如仙剑这部电视剧可以播吗？
+
+配置不是问题，问题是你的网络，你的上传带宽

@@ -1,0 +1,7 @@
+
+今天下午电脑打开斗鱼还是进不去  手机可以进去 也不卡 求大神
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/shengdian_1.png);height:26px;">
+
+电脑输入房间号，就可以进去了，你先随便输入一个房间号
+然后进去点全部直播就可以看了，但是别点首页，首页是挂了

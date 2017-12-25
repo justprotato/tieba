@@ -1,0 +1,28 @@
+
+本人想开直播电脑配置如下
+电脑型号东芝 dynabook Satellite K32V 280E/W 笔记本电脑  (扫描时间：2015年06月27日)
+操作系统Windows XP 专业版 32位 SP3 ( DirectX 9.0c )
+处理器英特尔 酷睿2 双核 T9600 @ 2.80GHz 笔记本处理器
+主板东芝 Portable PC ( 英特尔 4 Series - ICH9M 笔记本芯片组 )
+内存4 GB ( 南亚易胜 DDR2 667MHz / 南亚易胜 DDR2 800MHz )
+主硬盘希捷 ST9500325AS ( 500 GB / 5400 转/分 )
+显卡英特尔 GL40/GM45/GM47/GS45 Graphics Controller ( 1 GB / 东芝 )
+显示器东芝 TOS508A
+光驱松下 DVD-RAM UJ890ES DVD刻录机
+声卡瑞昱 ALC268 @ 英特尔 82801I(ICH9) 高保真音频
+网卡英特尔 82567LM Gigabit Network Connection / 东芝
+配置直播英雄联盟可以吗？
+
+dd
+
+并不能
+
+笔记本直播。。。
+
+不看好，能播，卡到没朋友而已
+
+这显卡还想直播？先能带动游戏再说
+
+别想了
+
+想都别想。LOL多吃处理器少吃显卡，你这配置只玩LOL，团战的时候帧数都不知道掉到哪了，别说直播了。

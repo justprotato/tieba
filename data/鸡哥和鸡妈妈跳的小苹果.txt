@@ -1,0 +1,8 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/E4TOGY_9HRc/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/E4TOGY_9HRc/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=b047d62cedc4b7453494b71efffc1e78/040d37deb48f8c542efc952a3c292df5e0fe7f61.jpg" pkey="407f23faebebf2eacd4e8232bc380565">span class="apc_src_wrapper">视频来自：土豆/span>
+
+有黑衣SG出来那一段和主播们全部跳舞那段吗？？给朋友
+
+有完整版不前面的
+
+难怪大发前天在小九那里练舞，原来早有预谋，逗死我了

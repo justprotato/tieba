@@ -1,0 +1,6 @@
+
+
+
+斗鱼改版了，估计要出礼物系统啦
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">

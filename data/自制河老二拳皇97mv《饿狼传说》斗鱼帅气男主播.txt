@@ -1,0 +1,16 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XOTQ2ODMyNTQw/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XOTQ2ODMyNTQw.html?from=y1.7-1.2" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=90e035ead458ccbf1bbcb53229d9bcd4/a2ab54529822720e2fcd7ea27ecb0a46f31fabc0.jpg" pkey="9ee61b46f0f8f2f376ee9c739d8b13a2">span class="apc_src_wrapper">视频来自：优酷/span>
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XOTQ2MDY5NzUy/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XOTQ2MDY5NzUy.html?from=y1.7-1.2" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=0ddbc74ebd99a9013b355b3e2d940a58/29d7621ea8d3fd1f53dfb960354e251f94ca5f76.jpg" pkey="f9c367373475d6d11176d75e931bad14">span class="apc_src_wrapper">视频来自：优酷/span>
+
+有谁约吗
+
+
+
+顶
+
+顶
+
+顶
+
+。。。。。。。。。。。

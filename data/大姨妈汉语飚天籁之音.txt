@@ -1,0 +1,8 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XMTI2NzA3MDIwMA==/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XMTI2NzA3MDIwMA==.html?firsttime=2" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=3294b9fb02082838680ddc1c889ba964/b284783eb13533fa976081caadd3fd1f43345bd8.jpg" pkey="3a1759db36dafac9add9118701fb7a52">span class="apc_src_wrapper">视频来自：优酷/span>
+
+把视频倒置播放你也是够了
+
+留得一逼，鸡哥看到又要膨胀了,毕竟又学会了一门外语 @38600905
+
+哈哈

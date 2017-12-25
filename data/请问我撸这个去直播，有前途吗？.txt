@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XOTE0NTE0NDgw/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XOTE0NTE0NDgw.html" vpic="http://g2.ykimg.com/0100641F4655097269D51528D0D1A3530F372F-E673-548E-FC17-96D749A63097" pkey="0c405a275f3a23fceb5f743ff4582f66">span class="apc_src_wrapper">视频来自：优酷/span>
+
+个人感觉看不清屏幕阿   我看到有的主播电脑有俩个视频一个拍你的动作  一个就是游戏画面  你这样看不到游戏里面的人物  没什么看头阿   要是改好了图新鲜的人肯定多

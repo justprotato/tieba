@@ -1,0 +1,4 @@
+
+其实我想听听有人爆料吗
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">

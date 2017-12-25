@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/ZEQom5XS42o/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/ZEQom5XS42o/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=200ca73bb651f819f1250342eab44a76/26ed0f1349540923c44a426e9458d109b3de495f.jpg" pkey="88405673095f64b7dd7c8987964f21ae">span class="apc_src_wrapper">视频来自：土豆/span>
+
+

@@ -1,0 +1,8 @@
+
+到现在还进不去
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/shengdian_1.png);height:26px;">
+
+楼主是什么情况，我是能进去，但看不了，老是载入
+
+输入房间号可以进入，首页是挂了···

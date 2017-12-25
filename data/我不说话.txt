@@ -1,0 +1,6 @@
+
+不要喷我
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/xiaolu_1.png);height:45px;">
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/xiaolu_1.png);height:45px;">

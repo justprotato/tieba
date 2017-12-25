@@ -1,0 +1,16 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XODI5MDQxODEy/v.swf"  class="BDE_Flash" video_from="http://www.douyutv.com/10903?fromuid=2208597" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XODI5MDQxODEy.html" vpic="http://g1.ykimg.com/0100641F46546A32CD9DAB17CC17871C1B138E-F7D0-93EE-50EE-1933BF011D20" pkey="ece125cf1ff0626a266ab358a1b91e8b">span class="apc_src_wrapper">视频来自：优酷/span>
+
+哈哈， 优酷正在上传   还有2段！
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XODI5MDQxMDg0/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XODI5MDQxMDg0.html" vpic="http://g4.ykimg.com/0100641F46546A33348FBD17CC1787B4A703D1-5B40-4610-D4A4-9E481609CFCB" pkey="92a35f7fc25d7443cc8582c25eca2220">span class="apc_src_wrapper">视频来自：优酷/span>
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XODI5MDQyNTIw/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XODI5MDQyNTIw.html" vpic="http://g2.ykimg.com/0100641F46546A348D403217CC1787967C2B37-F206-137A-B469-8BCED2055026" pkey="317e30b71b50351a5c20ec9a9a1c0057">span class="apc_src_wrapper">视频来自：优酷/span>
+
+咦？？？
+
+人工置顶
+
+
+
+我半夜看直播说有精彩瞬间，老司机有截图吗

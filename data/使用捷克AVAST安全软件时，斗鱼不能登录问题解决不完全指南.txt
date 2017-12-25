@@ -1,0 +1,19 @@
+
+本人小白，新装系统后安装了avast使用，今天突然不能上douyu，多方baidu，终于解决，分享给大家
+首先修改host
+很简单，文件在C:\WINDOWS\system32\drivers\etc文件夹，host发现了没，先备份喽。
+然后记事本打开，在最后加5行：
+182.140.147.69 http://www.douyu.tv
+220.161.209.17 staticlive.douyu.tv
+218.2.83.190 hdl.douyu.tv
+218.92.226.43 send.douyu.tv
+221.229.163.130 danmu.douyu.tv
+保存，end。
+
+再给avast设置一下，我觉得是多此一举，不知道单独设置avast能不能行，我是可以上了，不管了，不能上的多试试，avast设置，排除，直接看图：
+
+进入设置，常规里面向下拉
+
+排除，点开，URL选项，添加，Enter。
+完毕。
+真小白，望帮助一下懒得百度的小白....

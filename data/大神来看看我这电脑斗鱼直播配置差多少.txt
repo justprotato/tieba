@@ -1,0 +1,35 @@
+
+电脑型号精英 A58F2P-M4 台式电脑  (扫描时间：2015年05月14日)
+操作系统Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+处理器AMD Athlon(速龙) X4 730 Quad Core 四核
+主板精英 A58F2P-M4 ( AMD K15 )
+内存4 GB ( 金士顿 DDR3 1600MHz )
+主硬盘东芝 DT01ACA050 ( 500 GB / 7200 转/分 )
+显卡Nvidia GeForce GT 610 ( 2 GB / 七彩虹 )
+显示器冠捷 AOC2270 2270W ( 21.7 英寸 )
+声卡瑞昱 ALC662 @ AMD High Definition Audio Controller
+网卡瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 精英
+
+求大神来解答啊
+
+没有懂得吗
+
+差的太多
+
+610自己玩游戏都卡  还要播给别人看？
+
+播不了，会很卡的
+
+神卡610-- 在贴吧里我注意这个SB很久了！http://passport.baidu.com/?center&amp;tpl=tb 很久了　脑残喷子　有胆来刚正面？
+
+差多了
+
+处理器和显卡弱爆了
+
+不行，太渣了
+
+显卡和u要换，连带主板和电源也要换。内存也要加加，所以除了硬盘都换了吧
+
+显卡换下，就行了
+
+cpu绝对不行→_→

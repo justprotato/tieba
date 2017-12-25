@@ -1,0 +1,7 @@
+
+只要用OBS一串流网页就开始403拒绝访问一段时间，今天刚好又是周六，估计想我这种小主播肯定被嫌占用服务器资源了
+
+拒绝访问
+本缓存服务器管理员：wssupport@chinanetcenter.com
+Via:zhenjiang64:6 (Cdn Cache Server V2.0)
+Generated Sun, 27 Jul 2014 01:36:02 GMT by cache.51cdn.com (Cdn Cache Server V2.0)

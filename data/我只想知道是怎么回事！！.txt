@@ -1,0 +1,37 @@
+
+
+
+炸鱼了。。
+
+同
+
+难道就手机客户端炸了嘛？
+
+账号退出在登录就OK了。我有时候也这样
+
+我就知道我不是一个人！
+
+手机pad都不行。。。
+
+同样
+
+斗鱼这傻叼服务器
+
+网页也上不去啊
+
+貌似可以了
+
+错误您所请求的网址（URL）无法获取
+当尝试读取以下网址（URL）时： http://www.douyutv.com/meizhi
+发生了下列的错误：
+Connection Failed 
+连接失败
+系统返回以下内容：
+   (115) Operation now in progress
+The remote host or network may be down. Please try the request again. 
+您要连结的网络服务器或网络可能发生故障。请稍后再试。
+本缓存服务器管理员：wssupport@chinanetcenter.com
+Via:jg4:5 (Cdn Cache Server V2.0)
+Generated Wed, 18 Mar 2015 15:24:29 GMT by cache.51cdn.com (Cdn Cache Server V2.0)
+
+我也这样

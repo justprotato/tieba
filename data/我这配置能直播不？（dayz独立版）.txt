@@ -1,0 +1,21 @@
+
+电脑概览
+电脑型号  华硕 All Series
+操作系统  Microsoft Windows 7 旗舰版  (64位/Service Pack 1)
+CPU  (英特尔)Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz(3501 MHz)
+主板  华硕 Z87-K
+内存  8.00 GB (   1600 MHz)
+主硬盘  120 GB (  50026B774805716E 已使用时间: 8小时)
+显卡  NVIDIA GeForce GTX 760 (2048MB)
+显示器  VX229 VX229 32位真彩色 60Hz
+声卡  NV40 [GeForce 6800 Ultra]
+网卡  Realtek PCIe GBE Family Controller
+ 
+电信 20 兆、上传速度2.4MB/S
+ 求帅哥美女 建议！
+
+应该可以
+
+足够啦！
+
+电脑配置够了，还要看你的网络

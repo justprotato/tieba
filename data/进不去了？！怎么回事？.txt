@@ -1,0 +1,6 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+妈的是不是加载失败？
+
+老子也嘴了加载失败我重新下了变还是进不去

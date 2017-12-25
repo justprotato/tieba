@@ -1,0 +1,9 @@
+
+还是那句话，你依然想喷，没人拦你。
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XMTMxOTI4MjI4NA==/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XMTMxOTI4MjI4NA==.html" pkey="2164e7fc01a318f376b43eb3a26403c3">span class="apc_src_wrapper">视频来自：优酷/span>
+
+
+
+这个笑容有毒
+
+

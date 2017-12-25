@@ -1,0 +1,6 @@
+
+谢谢了。求大神送我一个  我想发弹幕。。。。
+
+手机为什么不能绑定。
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/qingren_1.png);height:60px;">

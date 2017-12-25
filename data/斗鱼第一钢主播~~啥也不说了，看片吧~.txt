@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XMTMxMDU3NzAyMA==/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XMTMxMDU3NzAyMA==.html?from=y1.7-1.2" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=330afc4e9445d688a302b2ac94c37dab/bb649743fbf2b21163e4b033cc8065380dd78e66.jpg" pkey="d9b8a032886b7991efe2219c3dc6adc3">span class="apc_src_wrapper">视频来自：优酷/span>
+
+可怕

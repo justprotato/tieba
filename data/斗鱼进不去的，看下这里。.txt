@@ -1,0 +1,10 @@
+
+打开C盘 进入系统32文件夹找到DRIVERS底下的ETC文件夹
+新建一个TXT文本 在文本里粘贴以下内容
+182.140.147.69 http://www.douyu.tv 
+220.161.209.177 staticlive.douyu.tv 
+218.2.83.190 hdl.douyu.tv
+202.100.78.198 uc.douyu.tv 
+218.92.226.43 send.douyu.tv 
+221.229.163.130 danmu.douyu.tv
+把新建的TXT改名hosts 删除原有hosts文件

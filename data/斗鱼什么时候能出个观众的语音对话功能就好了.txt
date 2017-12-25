@@ -1,0 +1,32 @@
+
+可以和主播互相对话更方便些
+
+场面会很混乱吧
+
+观众太多 基本不可能
+
+那就开花了
+
+想法新颖 
+但是观众之间就没交流了
+
+炸鱼 互喷的节奏
+
+出了的话 王者小弟直播间要炸
+
+如果出了的话那么王者小弟就火了
+
+niconico上有那种观众留言，然后有个语音助手一样的可以把留言读出来，像siri一样的声音。
+
+出了这种功能那些发广告的就爽了
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">4/span>&quot;
+  /span>
+
+弹幕撕逼都受不了的还语音
+
+会爆炸的

@@ -1,0 +1,14 @@
+
+卡出翔 求解决办法
+
+…
+
+
+
+去gosugamers可以把斗鱼的房间ID加进去看，据说效果不错。
+
+到gosugamers注册一个账户，可以把斗鱼的直播ID加进去，然后就可以很流畅的用gosugamers的CDN观赏斗鱼了
+
+你知道斗鱼直播街机平台是哪个吗。
+
+在gosugamers公告里面有介绍如何添加斗鱼流，http://www.gosugamers.net/starcraft2/news/28397-gosugamers-now-supports-douyu-tv-streams

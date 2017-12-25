@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/3HGgjzdLKvA/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/3HGgjzdLKvA/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=6087352268061d957d4637304bf50a5d/56438534970a304eec99ece0d7c8a786c8175cca.jpg" pkey="2c48883ec78ee937fb38b27a7eb7ab47">span class="apc_src_wrapper">视频来自：土豆/span>
+
+播天刀的那个？ 声音有点像二珂

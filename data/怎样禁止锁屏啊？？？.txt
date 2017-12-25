@@ -1,0 +1,7 @@
+
+斗鱼播放时还会移动锁屏 无语了 
+怎么解决啊？？
+
+吧里有人知道吗？？？？？
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/piaoliuping_1.png);height:110px;">

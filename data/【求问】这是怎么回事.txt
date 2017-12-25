@@ -1,0 +1,4 @@
+
+网速正常，就是进不去，只有弹幕
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/dazuiguai_1.png);height:78px;">

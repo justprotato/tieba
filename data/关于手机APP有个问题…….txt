@@ -1,0 +1,12 @@
+
+请问一下 我在网页上是用QQ登陆的  现在想用手机登要怎么弄呢？？
+
+ 直接打QQ账号密码没用提示用户不存在……
+
+ 看了下吧里的帖子 有人说先改密码 在用当前用户名+新密码
+
+ 试了下  根本不能改密码…… 
+
+ 要我输入当前密码 我就输的QQ密码 然后改的时候说当前密码不对……
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/caoshangyingfei_1.png);height:61px;">

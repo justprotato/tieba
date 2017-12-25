@@ -1,0 +1,28 @@
+
+电脑型号华硕 N56VZ 笔记本电脑
+操作系统Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+处理器英特尔 第三代酷睿 i5-3230M @ 2.60GHz 双核
+主板华硕 N56VZ ( 英特尔 Ivy Bridge - HM76 Express 芯片组 )
+内存4 GB ( 海力士 DDR3 1600MHz )
+主硬盘西数 WDC WD7500BPKT-80PK4T0 ( 750 GB / 7200 转/分 )
+显卡Nvidia GeForce GT 650M ( 4 GB / 华硕 )
+显示器三星 SEC314C ( 15.3 英寸 )
+光驱建兴 DVD A DS8A9SH DVD刻录机
+声卡瑞昱 ALC663 @ 英特尔 Panther Point High Definition Audio Controller
+网卡钰硕 AR8161/8165 PCI-E Gigabit Ethernet Controller / 华硕
+
+
+
+有没有大神懂的。。。求救啊
+
+大哥...你还是看直播吧...
+
+本人是想直播刀塔来着。上传带宽是够的。
+
+不行的大兄弟
+
+你为啥这么执着于笔记本呢？
+
+CPU最好是i7.内存最好8g,显卡最好再好一点
+
+我的用笔记本直播rpg

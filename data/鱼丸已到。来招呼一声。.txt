@@ -1,0 +1,28 @@
+
+@HerJanie我之前只有1400的。确定已到的。辛苦了~~~~~~
+
+@HerJanie
+
+什么情况啊
+
+我的心好痛，我的还没到
+
+0.0
+
+我去，这么好
+
+我的也收到了
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">5/span>&quot;
+  /span>
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">5/span>&quot;
+  /span>

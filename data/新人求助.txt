@@ -1,0 +1,6 @@
+
+我直播的时候它一直说我CPU编码过高 然后直播一卡一卡的 怎么办？
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/chunjie_1.png);height:35px;">
+
+我看直播也是一卡一卡的

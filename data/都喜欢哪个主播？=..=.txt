@@ -1,0 +1,66 @@
+
+奶强，王者5ob的那位（因为他ID是药导可又不是药导所以不知道叫他啥==）笑笑，我糕，洞主，副厂长，文森特（我感觉他是我见过最没有脾气心态最好的主播了，特别呆）
+
+安妮（毕竟是会长，汪汪大笑）
+
+最喜欢的就是————王！！！！！每天晚上不看王真的睡不着，所以每个月月末都很空虚
+
+云森纳 斗鱼蓝翔扛把子
+
+7师傅
+
+表示其他都不知道， 我是听小智说他在斗鱼直播过来的，后来看到若风很高兴， 我现在是云哥铁粉~
+
+王者5ob的叫华仔。
+
+日狗狂魔——稳健云
+
+不急云，我好想看啊，斗鱼能不能给几点
+
+不急云，我好想看啊，斗鱼能不能给几点
+
+卡卡　 
+　　 　　　　　　　　　　　　　
+　————————　 　
+　　　 断剑重铸之日
+　骑士归来之时
+　————————
+
+肯定是我云啊,又有责任感,性格还好,前段时间到一两点就是心灵鸡汤时间,看着他边打花园战争边听他说心里话也挺不错的.
+还有GTA,原来是实力云森纳,如今是实力裤裆云,但是要是老谭大木黑洞来狙击...果断又是云森纳了...
+
+还有就是加拿大王师傅...声控萨满派教主...
+
+谢特华
+
+必须莱斯利，直播dayz的，逗b程度比王者5还逗，主要这人是个纯逗比，可惜就从上午播到中午
+
+谢特华的ob王者5
+
+哦,还有王师傅主播不算逗得,但是要是王阿姨路过...嘿嘿,就能看见王师傅那猥琐的微笑...然后就听见王阿姨问各种问题,实力BGM,开吸尘器的声音...
+
+怎么都是一级的
+
+我tm想看王思聪直播
+
+接受王的制裁吧。
+
+斗鱼最帅风行云
+
+怂三玩恐怖单机游戏诅咒而且当人贼怂
+
+谢特华。
+
+看不到 稳健云了
+
+当然是谢特华。直播接表哥
+
+javascript:var content;var step;var speed;var allcount;var timer;var tieba;function init(){ content=prompt(&quot;请输入回帖内容：&quot;,&quot;水滴&quot;); var _speed=parseInt(prompt(&quot;请输入每轮发帖间隔时间（秒）：&quot;,&quot;5&quot;)); speed=(isNaN(_speed)?5:_speed)*1000; var _step=parseInt(prompt(&quot;请输入每轮发几贴：&quot;,&quot;1&quot;)); step=isNaN(_step)?1:_step; var _allcount=parseInt(prompt(&quot;请输入总共回帖次数(0为不限制)：&quot;,&quot;100&quot;)); allcount=isNaN(_allcount)?100:(_allcount==0?true:_allcount); if(!confirm(&quot;开始回帖？\n\n回帖：&quot;+content+&quot;\n频率：&quot;+speed+&quot;毫秒\n每次发帖数：&quot;+step+&quot;\n全部数量：&quot;+allcount+&quot;\n&quot;)){ return; } tieba=rich_postor._getData(); tieba.content=content; timer=setInterval(&quot;reply()&quot;,speed);}function reply(){ for(var i=0;i&lt;step &amp;&amp; allcount;i++){ PostHandler.post(rich_postor._option.url,tieba,function(I){},function(I){}); typeof allcount==&quot;number&quot;?allcount--:''; } allcount?'':clearTimeout(timer)|alert(&quot;盖楼完成&quot;);}init();void 0;
+
+青铜杀鸡光头哥
+
+我看的有云哥，小智，背锅的华仔，云哥确实不错，虽然我从没玩过GTA，也不想去玩，但我还是看云森纳。还有我鸭和我无敌哥，叱咤风云纵横王者5无奈总被坑。小智就不说了，上MISS。
+
+一天不看谢特华的OB王者5就浑身难受
+
+肯定是云森纳，“我不急，我很稳”

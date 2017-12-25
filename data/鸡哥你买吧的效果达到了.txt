@@ -1,0 +1,6 @@
+
+这么多人爆料就是 这个效果  ·····  你牛B 鸡哥  一切都是为了以后的舆论造势··
+
+呵呵
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/ranbingluan_01.png);height:22px;">

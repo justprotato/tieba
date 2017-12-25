@@ -1,0 +1,16 @@
+
+什么问题，网速？电脑?还是360？
+电脑型号X86 兼容 台式电脑
+操作系统Windows 7 旗舰版 32位 SP1 ( DirectX 11 )
+处理器AMD Athlon(速龙) II X2 250 双核
+主板华硕 M4N68T LE V2 ( Nvidia PCI standard RAM Controller )
+内存4 GB ( 金士顿 DDR3 1333MHz )
+主硬盘希捷 ST3500413AS ( 500 GB )
+显卡Nvidia GeForce GT 630 ( 1 GB / Nvidia )
+显示器宏碁 ACR0234 G225HQV ( 21.7 英寸 )
+声卡威盛 高保真音频
+网卡NVIDIA nForce 10/100/1000 Mbps Ethernet
+
+上传不够吧
+
+管理员运行、防火墙设置、改善网速

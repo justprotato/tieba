@@ -1,0 +1,15 @@
+
+电脑型号 映泰 H61MLC2 台式电脑
+操作系统 Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+ 
+处理器 英特尔 Pentium(奔腾) G2030 @ 3.00GHz 双核
+主板 映泰 H61MLC2 (英特尔 Ivy Bridge - H61 芯片组)
+内存 4 GB ( 宇瞻 DDR3 1600MHz )
+主硬盘 希捷 ST1000DM003-1CH162 ( 1 TB / 7200 转/分 )
+显卡 Nvidia GeForce GT 630 Rev. 2 ( 1 GB / Nvidia )
+显示器 冠捷 AOC2269 2269W ( 21.7 英寸 )
+光驱 东芝-三星 DVD-ROM SH-118BB DVD光驱
+声卡 瑞昱 ALC662 @ 英特尔 6 Series Chipset 高保真音频
+网卡 瑞昱 RTL8105E Family PCI-E FE NIC / 映泰
+
+够了。就差设置和网络问题

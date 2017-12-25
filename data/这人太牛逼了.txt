@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XOTU3NDAwOTk2/partnerid/8d5ffe2a068f4077/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XOTU3NDAwOTk2.html?from=y1.7-1.2" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=5a2701ad770e0cf3a0f74ef33a47f23d/7947caf41bd5ad6e17b1c85584cb39dbb7fd3ca6.jpg" pkey="584d85ca59d115ee0a58455b150f1120">span class="apc_src_wrapper">视频来自：优酷/span>
+
+6666666666666

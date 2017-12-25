@@ -1,0 +1,8 @@
+
+为啥看满5分钟去PC上没有领取的选项了
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+现在任务还没刷新 睡一觉就可以领了

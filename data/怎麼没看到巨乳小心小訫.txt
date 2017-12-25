@@ -1,0 +1,6 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/o6Otl6lqweA/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/o6Otl6lqweA/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=56f542f87d899e51788e3a1c72a7d990/0890b8d98d1001e95a0e850abe0e7bec54e79766.jpg" pkey="eb689a56b4fc16feb460ee08cab5e853">span class="apc_src_wrapper">视频来自：土豆/span>
+
+小訫是某公司解说吧
+
+她是腾讯展台的

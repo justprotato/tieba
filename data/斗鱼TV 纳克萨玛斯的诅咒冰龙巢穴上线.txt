@@ -1,0 +1,4 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">
+
+div class="pic_src_wrapper">span class="apc_src_wrapper">图片来自：斗鱼CEO的百度相册/span>

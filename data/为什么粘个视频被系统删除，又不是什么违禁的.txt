@@ -1,0 +1,14 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XNzkzMTM5OTk2/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XNzkzMTM5OTk2.html" vpic="http://g3.ykimg.com/0100641F465428C8F71F15194918D4DD1A7A1E-4B97-C8B0-AB58-1F0FF5CF4A0B" pkey="8bd8c200227d25bdf726b8a1238c6cc2">span class="apc_src_wrapper">视频来自：优酷/span>
+
+系统大姨妈吗？
+
+黑的不行
+
+求bgm什么
+
+求主播名字
+
+没球没未来，还我卡卡
+
+我爱nana

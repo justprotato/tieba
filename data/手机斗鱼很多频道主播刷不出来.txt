@@ -1,0 +1,10 @@
+
+
+
+顶
+
+楼主有一句话我不知道该讲不该
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/qingren_1.png);height:60px;">
+
+手机上只有斗鱼签约的主播才会显示没签约的在手机上是找不到的只能找房间号

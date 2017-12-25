@@ -1,0 +1,25 @@
+
+rt 
+电脑型号技嘉 台式电脑
+操作系统Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+处理器AMD Athlon(速龙) X4 740 Quad Core 四核
+主板技嘉 F2A55M-DS2 (AMD K15)
+内存4 GB ( 金士顿 DDR3 1600MHz )
+主硬盘希捷 ST500DM002-1BD142 ( 500 GB / 7200 转/分 )
+显卡Nvidia GeForce GT 630 ( 2 GB / 技嘉 )
+显示器三星 SAM0AE5 S22C150 ( 21.7 英寸 )
+声卡瑞昱 ALC887 高保真音频
+网卡瑞昱 RTL8168E PCI-E Gigabit Ethernet NIC / 技嘉
+求高手解答 我主要是玩cf 2L是官方配置
+
+CPU：E3-1230 v3 物理四核(虚拟八核)
+主板：华硕B85系列
+内存：8G或更多
+显卡：GTX760 2G显存 或AMD同等级显卡
+硬盘：500G 或 更多
+
+没人吗
+
+第二个的配置可以买第一个4台，cf要求低，但是你直播总得配台好的
+
+cf都能用核显玩

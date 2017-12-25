@@ -1,0 +1,14 @@
+
+什么情况，一直这样
+
+我还以为就我是这样的，原来也有这样的，卸载重装都没用
+
+有没有大神知道怎么弄
+
+清楚缓存试试
+
+
+
+　-请记住这是一个贴吧大神给你暖帖　 ,
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">

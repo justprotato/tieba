@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/5NDjHZIQPAs/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/5NDjHZIQPAs/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=032decd5fa039245a1b5e107b795a4a8/6d00d4385343fbf272f2bc3bb67eca8064388fad.jpg" pkey="acab854318bffe79afcb8c613aace100">span class="apc_src_wrapper">视频来自：土豆/span>
+
+每当夕阳慢慢落下，霓虹点起。忙碌了一天的喧嚣渐渐安静，城市的夜开始了。我想带你去看看这美丽的夜

@@ -1,0 +1,6 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/wCCmIvjnZUo/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/wCCmIvjnZUo/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=750e456bd22a283443a636036bb4c92e/a4efcb2442a7d933ddc2b105ab4bd11373f0013e.jpg" pkey="2e053e32eef119c1e59f02ec938b2b6f">span class="apc_src_wrapper">视频来自：土豆/span>
+
+66
+
+楼主你别傻了，这整个吧就咱两个人，其余的id都是我的，不信我换个id再把这话跟你说一遍…

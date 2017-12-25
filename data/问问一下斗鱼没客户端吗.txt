@@ -1,0 +1,6 @@
+
+这个只能直接网页看的吗
+
+有客户端啊，就是做的比较烂
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">

@@ -1,0 +1,9 @@
+
+
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">4/span>&quot;
+  /span>

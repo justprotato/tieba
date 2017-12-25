@@ -1,0 +1,8 @@
+
+我直播节目 但是在网页上面看着一卡一卡的 找不到原因 求各位大
+我用的是10M的电信光纤
+以下是家里的速度div class="pic_src_wrapper">span class="apc_src_wrapper">图片来自：兔子先森Ayi的百度相册/span>
+
+上传速度太低
+
+上传太低，适当关闭联网程序

@@ -1,0 +1,4 @@
+
+比如 CPU 显卡
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/panpasi_1.png);height:54px;">

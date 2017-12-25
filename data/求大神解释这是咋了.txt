@@ -1,0 +1,8 @@
+
+两天了手机和电脑都出这个
+
+只有斗鱼出，进别的网站都好用
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+可能是被封IP了

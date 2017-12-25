@@ -1,0 +1,8 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/VcG3WtrDp_M/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/VcG3WtrDp_M/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=1a60453832a85edffa8cfe2b795509d8/a3a6953d269759ee9b3c4ca3b4fb43166c22dfc3.jpg" pkey="56d042dc016b7dc5cf5f2a6f0b83b80d">span class="apc_src_wrapper">视频来自：土豆/span>
+
+
+
+他才20多
+
+放晟敏

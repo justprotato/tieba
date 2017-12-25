@@ -1,0 +1,10 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+66萌萌哒
+
+我也这样诶，同问
+
+感觉是斗鱼服务器爆炸了吧。。。打开个首页都好慢，看其他网站又一切正常。
+
+DNS改成8.8.8.8和114.114.114.114浙江电信都看不到了

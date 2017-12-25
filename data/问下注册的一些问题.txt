@@ -1,0 +1,4 @@
+
+本来注册了一个ID，不知道登陆账号就是ID，以为是就是登陆用的，就设置了那种用户登录的，大家都应该懂的，然后也稀里糊涂的让干什么就干什么，绑定邮箱也绑定手机了，现在就是发现这个ID就是登陆时的ID，想改 不能改，然后重新注册个呗 也没什么关系，关键是解绑手机和邮箱都不让，这是不是有点过分了。
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">

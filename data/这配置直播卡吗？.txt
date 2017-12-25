@@ -1,0 +1,23 @@
+
+电脑型号X86 兼容 台式电脑  (扫描时间：2015年03月19日)
+操作系统Windows 7 旗舰版 32位 SP1 ( DirectX 11 )
+处理器英特尔 第二代酷睿 i3-2120 @ 3.30GHz 双核
+主板华擎 B75M-GL ( 英特尔 B75 Express 芯片组 )
+内存4 GB ( 金士顿 DDR3 1333MHz )
+主硬盘希捷 ST500DM002-9YN14C ( 500 GB / 7200 转/分 )
+显卡Nvidia GeForce GTX 750 ( 1 GB / Nvidia )
+显示器通用非即插即用监视器
+光驱建兴 ATAPI iHDS118 6 DVD光驱
+声卡Nvidia nForce2 ISA Bridge @ 
+网卡瑞昱 RTL8168E PCI-E Gigabit Ethernet NIC / 华擎
+
+cpu，内存有点吃力，不过看你直播啥了
+
+弄台i74790的机子基本不卡，网络一般都是100m电信。
+
+内存换成8g固态
+
+I3打撸都困难，显卡内存偏低，这样子直播有点难
+
+参考官方推荐配置
+cpu 显卡 内存都不够

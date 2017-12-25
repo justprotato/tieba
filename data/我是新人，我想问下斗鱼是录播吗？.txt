@@ -1,0 +1,21 @@
+
+为什么我按暂停了以后继续了又还是原来的画面？直播不应该是无论暂不暂停都要继续的吗？好奇怪
+
+很明显是直播 很可能是你暂停了，后台还在缓存，继续看的就是缓存了，有时候卡了也会这样
+
+div class="save_face_post">
+     
+     对a rel="noopener" class="j_user_card" href="/home/main/?un=q714480439&ie=utf-8"
+      target="_blank" data-field='{&quot;un&quot;:&quot;q714480439&quot;}'>
+      span class="save_face_at">@/span>q714480439
+  使用挽尊卡
+
+     
+     挽回他的尊严！
+
+     
+     效果：a rel="noopener" href="/f?kw=%E6%96%97%E9%B1%BCtv&ie=utf-8"
+ target="_blank">斗鱼tv吧经验span>+15/span>
+     
+
+     div class="save_face_stamp">

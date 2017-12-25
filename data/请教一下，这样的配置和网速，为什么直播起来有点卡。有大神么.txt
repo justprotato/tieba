@@ -1,0 +1,21 @@
+
+电脑型号技嘉 台式电脑
+操作系统Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+处理器英特尔 第三代酷睿 i5-3470 @ 3.20GHz 四核
+主板技嘉 Z77P-D3 ( 英特尔 Ivy Bridge - Z77 Express 芯片组 )
+内存8 GB ( 金士顿 DDR3 1778MHz )
+主硬盘西数 WDC WD10EZEX-75ZF5A0 ( 1 TB / 7200 转/分 )
+显卡Nvidia GeForce GTX 760 ( 2 GB / 索泰 )
+显示器明基 BNQ8401 BenQ DL2200 ( 21.7 英寸 )
+光驱东芝-三星 DVD-ROM SH-118BB DVD光驱
+声卡瑞昱 ALC887 高保真音频
+网卡瑞昱 RTL8168E PCI-E Gigabit Ethernet NIC / 技嘉
+
+
+2m的上传速率
+
+什么网络
+
+上行2m.求助啊
+
+画质调低点试试

@@ -1,0 +1,6 @@
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/tuhao_1.png);height:37px;">
+
+有人么
+
+chrome内存本来占的就多。

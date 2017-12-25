@@ -1,0 +1,8 @@
+
+
+
+一代王者，落魄如斯。
+
+我也遇到过一个  不过图标不是斗鱼图标
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">

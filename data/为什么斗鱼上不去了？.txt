@@ -1,0 +1,12 @@
+
+RT
+
+拒绝访问
+本缓存服务器管理员：wssupport@chinanetcenter.com
+Via:hbhd42:7 (Cdn Cache Server V2.0)
+Generated Mon, 15 Jun 2015 13:40:39 GMT by cache.51cdn.com (Cdn Cache Server V2.0)
+  提示这个 不知道为什么，有木有大神知道为什么
+
+手机的客户端也不行，什么都不显示
+
+我也是，估计斗鱼崩溃了，过下进去就行了

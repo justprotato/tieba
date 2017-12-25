@@ -1,0 +1,13 @@
+
+拒绝访问
+
+本缓存服务器管理员：wssupport@chinanetcenter.com
+
+Via:yb88:4 (Cdn Cache Server V2.0)
+是什么情况啊？
+
+你的IP地址下 有人被封了 改下IP DNS就可以了
+
+同
+
+

@@ -1,0 +1,21 @@
+
+操作系统Windows 7 旗舰版
+处理器AMD Athlon(速龙) II X4 635 四核
+主板微星 870A-G54 (MS-7599) ( ATI RX780/RX790 芯片组 )
+内存4 GB ( 威刚 DDR3 1600MHz )
+主硬盘希捷 ST3500418AS ( 500 GB / 7200 转/分 )
+显卡Nvidia GeForce GT 630 ( 2 GB / Nvidia )
+声卡创新 EMU10K1 Audio Processor(SB Live!)
+网卡瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星
+
+
+
+直播时候很卡，求帮忙
+
+网络？
+
+　　　　　 　
+
+　　　　　--来自美国白宫奥巴马总统办公厅
+
+内存有点低了，现在大众内存标配8G以上。

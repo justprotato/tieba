@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="https://player.youku.com/player.php/sid/XMTI5OTA3NTU1Ng==/v.swf"  class="BDE_Flash" video_from="优酷" duration=""  width="500" height="450" vsrc="https://v.youku.com/v_show/id_XMTI5OTA3NTU1Ng==.html" pkey="535fe82dfc18e20bf6063755356710e2">span class="apc_src_wrapper">视频来自：优酷/span>
+
+

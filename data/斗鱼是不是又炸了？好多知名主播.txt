@@ -1,0 +1,4 @@
+
+斗鱼是不是又炸了？好多知名主播人数都变零了？日常弹幕炸就不提了
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/xionghaizhi_01.png);height:11px;">

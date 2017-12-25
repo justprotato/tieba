@@ -1,0 +1,4 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/UbtWrMScPMw/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/UbtWrMScPMw/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=9a627985217f9e2f70351d002f31e962/c7dd440a19d8bc3e8adccda9848ba61ea9d3455e.jpg" pkey="7a644e0d17b7bed51371a7ebd5036be4">span class="apc_src_wrapper">视频来自：土豆/span>
+
+然后呢？

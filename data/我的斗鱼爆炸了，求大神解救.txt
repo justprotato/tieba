@@ -1,0 +1,16 @@
+
+右边看不到水友的回复  也看不到弹幕。下方是这个样子。。关键鱼丸也领不了，，，
+
+真的要疯了，单机斗鱼啊
+
+快来人救救楼主
+
+多刷新一下就好了。ie清理一下缓存。
+
+用了三个浏览器还是这样，猎豹，qq，360都用过了
+
+自挽！
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/rierman_1.png);height:50px;">
+
+清理下缓存试试

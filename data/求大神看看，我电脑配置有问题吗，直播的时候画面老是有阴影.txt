@@ -1,0 +1,19 @@
+
+电脑概览
+
+电脑型号  联想 Lenovo Product
+操作系统  Microsoft Windows 7 旗舰版  (64位/Service Pack 1)
+CPU  AMD A8-5500 APU with Radeon(tm) HD Graphics(3200 MHz)
+主板  联想
+内存  8.00 GB (   1600 MHz)
+主硬盘  1000 GB (希捷 ST1000DM 003-1CH162 SATA Disk Device 已使用时间: 3563小时)
+显卡  AMD Radeon HD 7560D (768 MB)
+显示器  联想 LEN L2364wA 32位真彩色 60Hz
+声卡  AMD High Definition Audio Device
+网卡  Realtek PCIe GBE Family Controller
+
+你加斗鱼主播群问问吧，这里都是些观众........
+
+显卡？
+
+显卡不行

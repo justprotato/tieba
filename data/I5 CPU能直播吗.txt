@@ -1,0 +1,27 @@
+
+
+
+直播什么  lol的话i3都可以
+
+完全可以！！！！！！！！
+
+可以
+
+说的是gt5   i5可以直播边玩吗。。。内存应该要8g才能玩吧  显卡是什么
+
+最低配置要求:
+OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)
+Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
+Memory: 4GB
+Video Card: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
+Sound Card: 100% DirectX 10 compatible
+HDD Space: 65GB
+DVD Drive
+推荐配置要求:
+OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
+Processor: Intel Core i5 3470 @ 3.2GHZ (4 CPUs) / AMD X8 FX-8350 @ 4GHZ (8 CPUs)
+Memory: 8GB
+Video Card: NVIDIA GTX 660 2GB / AMD HD7870 2GB
+Sound Card: 100% DirectX 10 compatible
+HDD Space: 65GB
+DVD Drive

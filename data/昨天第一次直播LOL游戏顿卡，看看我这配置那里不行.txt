@@ -1,0 +1,13 @@
+
+电脑型号  技嘉 To be filled by O.E.M.
+操作系统  Microsoft Windows 7 旗舰版  (32位/Service Pack 1)
+CPU  (英特尔)Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz(3000 Mhz)
+主板  技嘉 P61A-D3
+内存  4.00 GB (   1333 MHz)
+主硬盘  1000 GB (西数 WDC WD10EALX-009BA0 ATA Device 已使用时间: 6516小时)
+显卡  NVIDIA GeForce GTS 450 (1023MB)
+显示器  CVT电子集团 Crystal View 32位真彩色 60Hz
+声卡  Realtek High Definition Audio
+网卡  Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.20)
+
+内存不够，安装64位系统，显卡太小

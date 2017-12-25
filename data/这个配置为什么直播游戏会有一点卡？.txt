@@ -1,0 +1,28 @@
+
+电脑型号微星 MS-7816 台式电脑
+操作系统Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+处理器英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核
+主板微星 B85-G43 GAMING (MS-7816) ( 英特尔 Haswell )
+内存6 GB ( 记忆科技 DDR3 1333MHz / 记忆科技 DDR3L 1600MHz )
+主硬盘希捷 ST500DM002-1BD142 ( 500 GB / 7200 转/分 )
+显卡ATI AMD Radeon R9 200 Series  ( 2 GB / 蓝宝石 )
+显示器通用非即插即用监视器
+光驱松下 DVD-ROM SW410 DVD光驱
+声卡瑞昱 High Definition Audio @ 
+网卡钰硕 Killer E2200 Gigabit Ethernet Controller / 微星
+
+来人。。。
+
+-我颠倒了整个世界，只为摆正你的身影。
+
+网络环境？
+
+来人
+
+内存  8G  好点  你几兆网？网速影响也很大
+
+这套多少钱啊
+
+....你要直播？
+
+你怎么调试的？怎样调试可以让观众看的清楚点。。开了弹幕确实卡，你怎样解决的

@@ -1,0 +1,6 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://www.tudou.com/v/nthhPi3Arn4/v.swf"  class="BDE_Flash" video_from="土豆" duration=""  width="500" height="450" vsrc="http://www.tudou.com/programs/view/nthhPi3Arn4/" vpic="https://imgsa.baidu.com/forum/w%3D580/sign=bceb6fd9a951f3dec3b2b96ca4eff0ec/a18da6d9f2d3572c30223bcf8c13632763d0c3ba.jpg" pkey="7236cf8546363e3378288f1f33e3a3f4">span class="apc_src_wrapper">视频来自：土豆/span>
+
+你确定？
+
+其实斗鱼颜值高的很多  但是关键还是要会玩

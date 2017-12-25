@@ -1,0 +1,7 @@
+
+我爱提莫！Let go it 视频集锦！么么哒~666666666
+直播版：
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://player.video.qiyi.com/46207d951829d34f384e82323fd31add/0/0/w_19rrzcr2u1.swf-pid=0-ptype=0-albumId=3474901109-tvId=3474901109-cnId=7-autoplay=1-qitanId=0-isDrm=0-isPurchase=0-t=1427448934191"  class="BDE_Flash" video_from="爱奇艺" duration=""  width="500" height="450" vsrc="http://www.iqiyi.com/w_19rrzcr2u1.html?t=1427448934191#vfrm=8-7-0-3" vpic="http://u6.qiyipic.com/image/20150327/93/25/uv_4002096896_m_601_m0.jpg" pkey="f6ec5004f7d53936b0db9bc3a549dade">span class="apc_src_wrapper">视频来自：爱奇艺/span>
+
+MV版：
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://player.video.qiyi.com/447fcc3b4099e729d75f84f3a0b0bb12/0/0/w_19rrzbnte9.swf-pid=0-ptype=0-albumId=3475168509-tvId=3475168509-cnId=7-autoplay=1-qitanId=0-isDrm=0-isPurchase=0"  class="BDE_Flash" video_from="爱奇艺" duration=""  width="500" height="450" vsrc="http://www.iqiyi.com/w_19rrzbnte9.html#vfrm=8-7-0-1" vpic="http://u2.qiyipic.com/image/20150327/48/0a/uv_4002098225_m_601_m0.jpg" pkey="57429094769b40b2107bd6e377608a94">span class="apc_src_wrapper">视频来自：爱奇艺/span>

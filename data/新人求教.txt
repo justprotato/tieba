@@ -1,0 +1,6 @@
+
+准备在家开直播，但是小区里联通的网只有四兆的网，直播lol的话会不会卡。可以换成电信十二兆的，但是我是网通区，会卡吗
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/piaoliuping_1.png);height:110px;">
+
+联通上传速度一般比电信高，电信十兆上传也就2m联通十兆上传6m，当然也看地区，我这我用铁通，双线接口，电信网通都不卡，上传下载速度一样都是10m

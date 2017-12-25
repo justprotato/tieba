@@ -1,0 +1,8 @@
+
+
+
+我也登不了.下午还可以晚上就不行了
+
+你的显示是啥样子的
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/caoshangyingfei_1.png);height:61px;">

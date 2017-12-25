@@ -1,0 +1,8 @@
+
+div class="video_src_wrapper">embed allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" play="true" loop="false" menu="false" allowscriptaccess="never" scale="noborder" src="http://player.ku6.com/refer/OpxrH1hTRs-S8UX6-pRVhg../v.swf"  class="BDE_Flash" video_from="ku6视频" duration=""  vhsrc="http://v.ku6.com/fetchwebm/OpxrH1hTRs-S8UX6-pRVhg...m3u8" width="500" height="450" vsrc="http://v.ku6.com/show/OpxrH1hTRs-S8UX6-pRVhg...html" vpic="http://vi1.ku6img.com/data1/p16/ku6video/2014/8/15/7/1413463558737_115995679_115995679/103.jpg" pkey="d758de9ea8d71eb507a11e39c58985c2">span class="apc_src_wrapper">视频来自：ku6视频/span>
+
+一天不听就不舒服
+
+劳资名叫赵日天
+
+在狼牙区

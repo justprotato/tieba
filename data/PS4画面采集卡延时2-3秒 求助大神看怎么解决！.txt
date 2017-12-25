@@ -1,0 +1,15 @@
+
+
+
+求大神帮帮忙，狗东1299买的710，不管怎么调试都是延迟3秒左右，那种感觉很痛苦啊。我的电脑配置很低，是不是因为这个问题啊。如果是采集卡问题 那就只能退货了
+
+你电脑配置太低
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">2/span>&quot;
+  /span>
+
+AMD兼容性有问题，游戏机输出调成720P60 采集卡一样720P60采样率1.5M试一下

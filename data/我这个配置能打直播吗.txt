@@ -1,0 +1,16 @@
+
+电脑概览
+电脑型号  技嘉 To be filled by O.E.M.
+操作系统  Microsoft Windows 7 旗舰版  (64位/Service Pack 1)
+CPU  AMD Athlon(tm) X4 860K Quad Core Processor(3700 MHz)
+主板  技嘉 F2A58M-DS2
+内存  4.00 GB (   1600 MHz)
+主硬盘  320 GB (西数 WDC WD3200AAJS-56M0A0 ATA Device 已使用时间: 625小时)
+显卡  AMD Radeon R7 200 Series (1024MB)
+显示器  宏碁 S230HL 32位真彩色 60Hz
+声卡  Realtek High Definition Audio
+网卡  Realtek PCIe GBE Family Controller
+
+  不知道是网速的问题还是电脑的问题 自己在斗鱼开直播的时候会卡卡的
+ 有懂的兄弟 帮帮忙
+谢谢

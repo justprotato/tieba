@@ -1,0 +1,8 @@
+
+观看各个直播间 直播屏幕都发白，如图 其他的视频网站都是正常的
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/piaoliuping_1.png);height:110px;">
+
+@q714480439   怎么破....话说我电脑风扇出了问题后直播出现问题 和这有关系吗
+
+http://jingyan.baidu.com/article/5225f26b0b495fe6fa0908c7.html?tj=exp_relate_4&amp;st=2&amp;os=0&amp;bd_page_type=1&amp;net_type=3&amp;ssid=&amp;from=

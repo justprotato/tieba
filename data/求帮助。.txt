@@ -1,0 +1,8 @@
+
+我按照直播指导的步骤来。但是游戏已经打开了。
+直播伴侣的游戏选择里面却没有显示  
+是什么情况？
+
+截图：
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/zhangyu_1.png);height:66px;">

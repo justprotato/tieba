@@ -1,0 +1,13 @@
+
+为什么我看不到聊天，也不能发送聊天了
+
+div class="post_bubble_top"    style="background:url(//tb1.bdstatic.com/tb/cms/post/bubble/xingni_1.png);height:35px;">
+
+@xffljy  @dn灯
+
+一切正常，多刷新试试看
+
+这是斗鱼的锅，这几天弹幕有问题，好像设置什么就可以了
+你看看下面的帖子，有解说的
+
+http://tieba.baidu.com/p/3937761402这个是帖子地址啊

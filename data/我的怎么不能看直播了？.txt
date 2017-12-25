@@ -1,0 +1,23 @@
+
+我的怎么不能看直播了2L放图
+
+错误您所请求的网址（URL）无法获取
+当尝试读取以下网址（URL）时： http://www.douyutv.com/
+发生了下列的错误：
+Connection Failed 
+连接失败
+系统返回以下内容：
+   (11) Resource temporarily unavailable
+The remote host or network may be down. Please try the request again. 
+您要连结的网络服务器或网络可能发生故障。请稍后再试。
+本缓存服务器管理员：wssupport@chinanetcenter.com
+Via:cqck182:1 (Cdn Cache Server V2.0)
+Generated Thu, 15 Jan 2015 17:23:49 GMT by cache.51cdn.com (Cdn Cache Server V2.0)
+
+怎么回事啊！！求大神解答
+
+F5  换浏览器 换IP
+
+我也这样，怎么回事。。
+
+看不到弹幕看不到人数看不到鱼丸 也送不出去

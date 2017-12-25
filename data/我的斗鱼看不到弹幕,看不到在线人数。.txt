@@ -1,0 +1,19 @@
+
+到底怎么回事了。
+
+我是QQ浏览器,我清理了缓存,cookies也清理了。。就是看不到。。换成IE的也看不到。
+
+快点来人告诉我怎么回事。
+
+div class="voice_player voice_player_pb clearfix">
+     
+  span class="speaker speaker_animate">&nbsp;/span>
+  span class="time pull_right">
+      span class="second">3/span>&quot;
+  /span>
+
+肿么回事。
+
+我和你不太一样，我是一会有弹幕一会没有弹幕
+
+我用直连免流看不到汤姆，换脚本
